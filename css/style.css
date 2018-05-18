@@ -4,6 +4,26 @@
   padding: 0;
 }
 
+html {
+  background: #423699;
+}
+
 body {
   font-family: 'Source Sans Pro', sans-serif;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  width: 42.6875rem;
+  background: #FFF;
+  box-shadow: 0 23px 74px 21px rgba(48,52,115,.5);
+  border-radius: 4px;
+  margin: .625rem;
+  padding: .9375rem 0;
 }
