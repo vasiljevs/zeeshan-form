@@ -87,8 +87,8 @@ body {
 }
 
 .form-input {
-  border-bottom: 2px solid #D7D7D7;
   border: 0;
+  border-bottom: 2px solid #D7D7D7;
   font-size: 1.5rem;
   outline: 0;
   padding: .469rem 0;
