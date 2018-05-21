@@ -118,6 +118,12 @@ body {
   text-transform: uppercase;
 }
 
+.form-paragraph,
+.form-label,
+.form-link {
+  font-weight: 600;
+}
+
 @media (max-width: 31.25em) {
   .container {
     margin: .625rem;
