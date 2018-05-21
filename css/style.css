@@ -35,6 +35,8 @@ body {
 
 .cl-2 {
   flex-basis: 27.75rem;
+  display: flex;
+  align-items: center;
 }
 
 .nature {
@@ -43,12 +45,6 @@ body {
   height: 26rem;
   left: -15px;
   position: relative;
-}
-
-.vertical-center {
-  align-items: center;
-  display: flex;
-  height: 100%;
 }
 
 .form {
