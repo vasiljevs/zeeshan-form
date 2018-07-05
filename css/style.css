@@ -8,6 +8,11 @@ html {
   background: #423699;
 }
 
+html,
+body {
+  height: 100%;
+}
+
 body {
   font-family: 'Source Sans Pro', sans-serif;
 }
@@ -15,7 +20,7 @@ body {
 .wrapper {
   align-items: center;
   display: flex;
-  height: 100vh;
+  height: 100%;
   justify-content: center;
 }
 
